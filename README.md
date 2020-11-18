@@ -17,3 +17,5 @@ all other items will act like an attacker. Even though the ocean plays a very fo
 the underwater world for a long time in history. Today’s technologies and materials allow us to explore the ocean deep and observe the undersea environment
 continuously. Undersea exploration can help us to understand marine ecosystems and environmental changes better.
 
+![](Odd-Sem-Progress/Result.png)
+
