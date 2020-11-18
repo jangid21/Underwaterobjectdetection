@@ -16,6 +16,7 @@ applied to modify the deep convolutional neural network (CNN) structure. I will 
 all other items will act like an attacker. Even though the ocean plays a very foundation role in human life, we have a limited ability to explore
 the underwater world for a long time in history. Today’s technologies and materials allow us to explore the ocean deep and observe the undersea environment
 continuously. Undersea exploration can help us to understand marine ecosystems and environmental changes better.
-Result of Yolo model applied on normal image
+
+Result of Yolo model applied on normal image-
 ![](Odd-Sem-Progress/Result.png)
 
